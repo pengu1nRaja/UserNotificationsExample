@@ -57,8 +57,4 @@ class MainTableView: UITableViewController {
         
         present(alert, animated: true)
     }
-
-
-
-
 }
